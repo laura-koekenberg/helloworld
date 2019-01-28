@@ -1,2 +1,6 @@
 public class Koekenberg {
+
+    Koekenberg() {
+
+    }
 }
